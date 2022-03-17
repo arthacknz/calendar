@@ -9,12 +9,12 @@
 | 2022-02-17 | yes | null | Dan |
 | 2022-02-24 | yes | null | Dan |
 | 2022-03-03 | yes | null | Mikey |
-| 2022-03-10 | yes | null | Dan |
+| 2022-03-10 | no | no | no |
 | 2022-03-17 | yes | null | Angelica |
 | 2022-03-24 | yes | null | Angelica |
 | 2022-03-31 | yes | null | zach |
 | 2022-04-07 | yes | null | zach |
-| 2022-04-14 | ??? | ??? | ??? |
+| 2022-04-14 | yes | null | Dan |
 | 2022-04-21 | yes | Space Palace | Ed |
 | 2022-04-28 | ??? | ??? | ??? |
 | 2022-05-05 | ??? | ??? | ??? |

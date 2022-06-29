@@ -25,7 +25,7 @@
 | 2022-06-09 | yes | null | Jack |
 | 2022-06-16 | yes | EDA | Jack |
 | 2022-06-23 | yes | EDA | Michael |
-| 2022-06-30 | yes | null | Angelica |
+| 2022-06-30 | yes | Ultra Audio | Angelica/Ed |
 | 2022-07-07 | yes | null | Dan |
 | 2022-07-14 | yes | null | Matt |
 | 2022-07-21 | yes | null | Matt |

@@ -24,20 +24,20 @@
 | 2022-06-02 | yes | null | Dan |
 | 2022-06-09 | yes | null | Jack |
 | 2022-06-16 | yes | EDA | Jack |
-| 2022-06-23 | no | EDA | Michael |
+| 2022-06-23 | no | EDA | Mikey |
 | 2022-06-30 | yes | Ultra Audio | Angelica/Ed |
 | 2022-07-07 | yes | EDA | Jack |
 | 2022-07-14 | yes | EDA | Jack |
 | 2022-07-21 | yes | EDA | Matt |
 | 2022-07-28 | yes | EDA | Jack |
-| 2022-08-04 | yes | The Cradle | Jack |
-| 2022-08-11 | yes | EDA | Matt |
+| 2022-08-04 | no | The Cradle | Jack |
+| 2022-08-11 | no | EDA | Matt |
 | 2022-08-18 | yes | EDA | Jack |
 | 2022-08-25 | yes | EDA | Matt |
 | 2022-09-01 | yes | EDA | Jack |
 | 2022-09-08 | yes | EDA | Matt |
-| 2022-09-15 | ??? | ??? | ??? |
-| 2022-09-22 | ??? | ??? | ??? |
+| 2022-09-15 | yes | EDA | Jack |
+| 2022-09-22 | yes | null | Ben? |
 | 2022-09-29 | ??? | ??? | ??? |
 | 2022-10-06 | ??? | ??? | ??? |
 | 2022-10-13 | ??? | ??? | ??? |

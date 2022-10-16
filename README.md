@@ -41,8 +41,8 @@
 | 2022-09-29 | yes | null | Dan |
 | 2022-10-06 | yes | EDA | Jack |
 | 2022-10-13 | yes | EDA | Mikey |
-| 2022-10-20 | yes | EDA | Matt |
-| 2022-10-27 | yes | EDA | Jack |
+| 2022-10-20 | yes | EDA | Jack |
+| 2022-10-27 | yes | EDA | Matt |
 | 2022-11-03 | yes | EDA | Mikey |
 | 2022-11-10 | yes | EDA | Matt |
 | 2022-11-17 | yes | null | Dan |

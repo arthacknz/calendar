@@ -60,9 +60,9 @@
 | 2023-03-23 | yes | EDA | Mikey |
 | 2023-03-30 | yes | EDA | Mikey |
 | 2023-04-06 | yes | EDA | Dan + Matt |
-| 2023-04-13 | proposed | The Cradle | Jack |
+| 2023-04-13 | yes | The Cradle | Jack |
 | 2023-04-20 | ??? | ??? | ??? |
-| 2023-04-27 | ??? | ??? | ??? |
+| 2023-04-27 | yes | EDA | Mikey |
 | 2023-05-04 | ??? | ??? | ??? |
 | 2023-05-06 | proposed | Garrett Street | Perry |
 

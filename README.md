@@ -71,12 +71,11 @@
 | 2023-06-08 | yes | EDA | Matt |
 | 2023-06-15 | yes | EDA | Dan |
 | 2023-06-22 | yes | EDA | Jack |
-| 2023-06-06 | yes | EDA | Matt |
-| 2023-07-13 | yes | EDA | Dan |
-| 2023-07-20 | yes | EDA | Jack |
-| 2023-07-27 | yes | EDA | Matt |
-| 2023-08-03 | yes | EDA | Dan |
-
+| 2023-06-29 | yes | EDA | Matt |
+| 2023-07-06 | yes | EDA | Dan |
+| 2023-07-13 | yes | EDA | Jack |
+| 2023-07-20 | yes | EDA | Matt |
+| 2023-07-27 | yes | EDA | Dan |
 
 
 

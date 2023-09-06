@@ -78,6 +78,10 @@
 | 2023-07-27 | yes | EDA | | Jack | | |
 | 2023-08-03 | yes | EDA | | Matt | | |
 | 2023-08-10 | yes | EDA | | Dan | | |
+| 2023-08-17 | yes | EDA | VJ Invasion | Jack | | |
+| 2023-08-24 | yes | EDA | Synth Night | Matt | | |
+| 2023-08-31 | yes | EDA | | Dan | | |
+| 2023-09-07 | yes | EDA | | Jack | | |
 
 ## Note on hosting
 

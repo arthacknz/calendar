@@ -82,6 +82,9 @@
 | 2023-08-24 | yes | EDA | Synth Night | Matt | | |
 | 2023-08-31 | yes | EDA | | Dan | | |
 | 2023-09-07 | yes | EDA | | Jack | | |
+| 2023-09-14 | yes | EDA | | Matt | | |
+| 2023-09-21 | yes | EDA | | Dan | | |
+| 2023-09-28 | yes | EDA | | Jack | | |
 
 ## Note on hosting
 

@@ -94,11 +94,24 @@
 | 2023-11-16 | yes | EDA | | Dan | | |
 | 2023-11-23 | yes | Glover Park | Art~Hack x Soft Serve Social | Jack | | |
 | 2023-11-30 | yes | EDA | | Matt | | |
-| 2023-12-07 | yes | EDA | | Jack | | |
-| 2023-12-14 | | | | | | |
-| 2023-12-21 | | | | | | |
-| 2023-12-28 | | | | | | |
+| 2023-12-07 | yes | EDA | | Dan | | |
+| 2023-12-14 | yes | EDA | | Jack | | |
+| 2023-12-21 | yes | EDA | | Matt | | |
+| 2023-12-28 | no | | | | | |
+| 2024-01-04 | no | | | | | |
+| 2024-01-11 | yes | EDA | | Dan | | |
+| 2024-01-18 | yes | EDA | | Jack | | |
+| 2024-01-25 | no | Kiwiburn | | | | |
+| 2024-02-01 | yes | EDA | techno b2b | Matt | | |
+| 2024-02-08 | yes | EDA | | Dan | | |
+| 2024-02-15 | yes | EDA | | Jack | | |
+| 2024-02-22 | yes | EDA | | Matt | | |
+| 2024-02-29 | yes | EDA | four year special | Dan | | |
+| 2024-03-07 | yes | EDA | | Jack | | |
+| 2024-03-14 | yes | EDA | | Matt | | |
+| 2024-03-21 | yes | EDA | | Dan | | |
+| 2024-03-28 | maybe? | EDA | easter | Jack | | |
 
-## Note on hosting
+## Note on
 
 We are now sharing the hosting role for art~hack so the responsiblity does not rest on any one person's shoulders. Therefore, it's really important we keep this calendar up to date. Please pre-populate it in advance if you can host. If you can't host anymore, request the core member group to see if someone else can take the reigns!

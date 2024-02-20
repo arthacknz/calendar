@@ -105,8 +105,8 @@
 | 2024-02-01 | yes | EDA | techno b2b | Matt | | |
 | 2024-02-08 | yes | EDA | | Dan | | |
 | 2024-02-15 | yes | EDA | | Jack | | |
-| 2024-02-22 | yes | EDA | | Matt | | |
-| 2024-02-29 | yes | EDA | four year special | Dan | | |
+| 2024-02-22 | yes | EDA | | Dan | | |
+| 2024-02-29 | yes | EDA | | Matt | | |
 | 2024-03-07 | yes | EDA | | Jack | | |
 | 2024-03-14 | yes | EDA | | Matt | | |
 | 2024-03-21 | yes | EDA | | Dan | | |
